@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C2AC-7149
+
+ Directory of C:\Users\USER\Desktop\proj2
+
+21-10-2021  11:33    <DIR>          .
+21-10-2021  11:33    <DIR>          ..
+21-10-2021  11:33                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  951,127,887,872 bytes free
